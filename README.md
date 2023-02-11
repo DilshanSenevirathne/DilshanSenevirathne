@@ -9,7 +9,7 @@
 [![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri) -->
 
-<!-- </div>
+ </div>
 <p align="justify">
 Experienced front-end developer specializing in creating dynamic and visually appealing web applications. Adept in HTML, CSS, JavaScript, and React. Committed to writing clean, efficient code and staying up-to-date with the latest front-end technologies.
 </p>
