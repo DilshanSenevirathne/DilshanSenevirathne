@@ -1,7 +1,51 @@
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
 <!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/> -->
+<!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/> -->
+<div align="center">
+<h2> Hi There, I'm Dilshan!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
+</p>
 
-<div align="justify">
+
+_Watch my contribution graph get eaten by the snake_ 🐍
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br />
+
+👨‍🎓 An Information Technology Undergraduate from <a href="https://www.kdu.ac.lk/" target="_blank">
+General Sir John Kotelawala Defence University Sri Lanka
+</a>
+<br />
+
+👨‍💻 I’m currently working on web development technologies on MERN Stack.
+<br />
+
+🌱 I'm Interested in Front-End Development
+<br />
+
+💪🏼 My philosophy is Empathy. innovation. Impact.
+<br />
+
+📫 Reach me via kdsenevirathne@gmail.com
+<br />
+<br />
+
+<!--
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chami98&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami98&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br />
+<br />
+<br />
+<div align="justify"> -->
 
 <!-- [![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/rzashakeri-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rzashakeri)&nbsp;&nbsp;&nbsp;
