@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
+<!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/> -->
 
 <div align="justify">
 
