@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
+<img src="https://im5.ezgif.com/tmp/ezgif-5-8bb104a1eb.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
+<img src="https://im5.ezgif.com/tmp/ezgif-5-8bb104a1eb.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
 
 <div align="justify">
 
@@ -152,13 +153,13 @@ Experienced front-end developer specializing in creating dynamic and visually ap
 <!-- ## Recent GitHub Activity ✅
 
 <!--START_SECTION:activity-->
-
+<!--
 1. 🗣 Commented on [#27](https://github.com/rzashakeri/beautify-github-profile/issues/27) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 2. 🎉 Merged PR [#26](https://github.com/rzashakeri/beautify-github-profile/pull/26) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 3. ❗️ Closed issue [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 4. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-   END_SECTION:activity --> -->
+   END_SECTION:activity --> --> -->
 
 <!-- ## GitHub Profile Trophy 🏆
 
