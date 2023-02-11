@@ -9,8 +9,8 @@
 [![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri) -->
 
-</div>  
-<p align="justify"> 
+<!-- </div>
+<p align="justify">
 Experienced front-end developer specializing in creating dynamic and visually appealing web applications. Adept in HTML, CSS, JavaScript, and React. Committed to writing clean, efficient code and staying up-to-date with the latest front-end technologies.
 </p>
 
@@ -60,7 +60,7 @@ Experienced front-end developer specializing in creating dynamic and visually ap
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -125,9 +125,9 @@ Experienced front-end developer specializing in creating dynamic and visually ap
  </tr>
 </table>
 
-## Github stats 📊
+<!-- ## Github stats 📊
 
-<details> 
+<details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dila's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dilshansenevirathne&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
@@ -149,7 +149,7 @@ Experienced front-end developer specializing in creating dynamic and visually ap
 
 </details> -->
 
-## Recent GitHub Activity ✅
+<!-- ## Recent GitHub Activity ✅
 
 <!--START_SECTION:activity-->
 
@@ -158,10 +158,10 @@ Experienced front-end developer specializing in creating dynamic and visually ap
 3. ❗️ Closed issue [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 4. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-<!--END_SECTION:activity-->
+   END_SECTION:activity --> -->
 
-## GitHub Profile Trophy 🏆
+<!-- ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> --> -->
