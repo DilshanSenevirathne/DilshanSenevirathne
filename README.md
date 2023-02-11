@@ -1,5 +1,5 @@
-<img src="https://im5.ezgif.com/tmp/ezgif-5-8bb104a1eb.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
-<img src="https://im5.ezgif.com/tmp/ezgif-5-8bb104a1eb.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
+<img src="https://github.com/DilshanSenevirathne/DilshanSenevirathne/blob/main/git.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
+<img src="https://github.com/DilshanSenevirathne/DilshanSenevirathne/blob/main/git.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/>
 
 <div align="justify">
 
