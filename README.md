@@ -1,5 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/> -->
-<!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="👋 Hi there! I'm Dila" title="👋 Hi there! I'm Dila"/> -->
 <div align="center">
 <h2> Hi There, I'm Dilshan!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   
@@ -34,24 +32,6 @@ General Sir John Kotelawala Defence University Sri Lanka
 📫 Reach me via kdsenevirathne@gmail.com
 <br />
 <br />
-
-<!--
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chami98&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami98&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
-<div align="justify"> -->
-
-<!-- [![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/rzashakeri-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rzashakeri)&nbsp;&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;
-[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
-[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri) -->
 
  </div>
 <p align="center">
@@ -168,44 +148,3 @@ Experienced front-end developer specializing in creating dynamic and visually ap
     </td>
  </tr>
 </table>
-
-<!-- ## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dila's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dilshansenevirathne&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a> -->
-  <!-- <br/>
-</details> -->
-
-<!-- <details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-</details> -->
-
-<!-- <details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=DilshanSenevirathne&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details> -->
-
-<!-- ## Recent GitHub Activity ✅
-
-<!--START_SECTION:activity-->
-<!--
-1. 🗣 Commented on [#27](https://github.com/rzashakeri/beautify-github-profile/issues/27) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🎉 Merged PR [#26](https://github.com/rzashakeri/beautify-github-profile/pull/26) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. ❗️ Closed issue [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-5. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-   END_SECTION:activity --> --> -->
-
-<!-- ## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> --> -->
