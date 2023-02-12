@@ -2,7 +2,7 @@
 <h2> Hi There, I'm Dilshan!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Competitive+Programmer;Empathy.%20%20Innovation.%20%20Impact&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+of+Information+Technology;Efficien.%20%20tCreative.%20%20Problem-solver.;Empathy.%20%20Innovation.%20%20Impact&center=true&width=500&height=50"></a>
 </p>
 
 _Watch my contribution graph get eaten by the snake_ 🐍
