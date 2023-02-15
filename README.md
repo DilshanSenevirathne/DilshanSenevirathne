@@ -38,6 +38,10 @@ General Sir John Kotelawala Defence University Sri Lanka
 Experienced front-end developer specializing in creating dynamic and visually appealing web applications. Adept in HTML, CSS, JavaScript, and React. Committed to writing clean, efficient code and staying up-to-date with the latest front-end technologies.
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DilshanSenevirathne=anuraghazra&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DilshanSenevirathne=anuraghazra&hide=contribs,prs)
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
