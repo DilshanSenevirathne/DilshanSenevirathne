@@ -41,7 +41,11 @@ Experienced front-end developer specializing in creating dynamic and visually ap
 <!-- mystat -->
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanSenevirathne&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanSenevirathne&show_icons=true&theme=transparent) -->
+
+![DilshanSenevirathne GitHub Stats](https://server.dooboo.io/github-stats-advanced/DilshanSenevirathne)
+
+![DilshanSenevirathne GitHub Trophies](https://server.dooboo.io/github-trophies/DilshanSenevirathne)
 
 </div>
 
